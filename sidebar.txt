@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mcr:home|Door43 (mcr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mcr|d43-mcr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mcr/archive/master.zip|d43-mcr.zip]]
+
+**Recent Changes**
+{{changes>ns = mcr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mcr|Ethnologue data]]
+
